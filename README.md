@@ -56,4 +56,5 @@ arguments:
   -r RANDOM_SEED, --random_seed RANDOM_SEED
                         Random seed for reproducibility
 ```
-**Note**: Please make sure you have a valid OpenAI API Key to run `gpt-4o-mini` inference.
+
+***Note***: The script will prompt the user to enter the OpenAI API Key (for both models) and text genre (if using the multi-stage pipeline). Please make sure you have a valid OpenAI API Key to run `gpt-4o-mini` inference.
