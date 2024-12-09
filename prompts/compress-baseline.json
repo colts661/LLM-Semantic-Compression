@@ -1,0 +1,3 @@
+{
+    "action": "We want you to produce a compressed text that fits a Tweet, such that you (GPT-4o) can reconstruct it as close as possible to the original. For each number, generate a single token in the compressed text. This is for yourself. Do not make it human-readable. Abuse of language, mixing, abbreviations, and symbols (Unicode and emojis) to aggressively compress it are all encouraged. Make sure to keep ALL the information to reconstruct it fully.\n\n#### Text to Compress:\n\n[TEXT]\n\nJust give me the compressed text directly. Do *not* provide any additional commentary at any point in your response."
+}

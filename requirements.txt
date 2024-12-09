@@ -1,0 +1,10 @@
+openai
+backoff
+matplotlib
+tqdm>=4.9.0
+pickle
+zlib
+bz2
+sentence-transformers
+pandas
+numpy

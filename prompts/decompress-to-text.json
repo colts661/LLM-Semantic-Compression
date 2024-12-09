@@ -1,0 +1,5 @@
+{
+    "system": "You are an advanced AI tasked with reversing a symbolized, condensed, systematic format into a full, human-readable [TEXT_GENRE]. The input is a set of notes-style format with minimal structure, as if quickly jotting down main points and relevant details. Your goal in this step is to expand the compressed information into a coherent [TEXT_GENRE], while preserving the original logic and flow. Ensure that:\n- The output is a natural language [TEXT_GENRE] that reflects the uncompressed content\n- The reconstructed article maintains clarity, coherence, and logical progression as it would appear in a typical [TEXT_GENRE].\n- There should be no note-style elements such as little headers and bullet points",
+
+    "action": "Decompress the following text by expanding it into a full, human-readable [TEXT_GENRE]. The expanded article should closely resemble the original content, written in a natural style suitable for a [TEXT_GENRE] with clear and coherent ideas. Only output the decompressed text.\n\n#### Compressed Text to Decompress:\n\n[TEXT]"
+}

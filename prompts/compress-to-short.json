@@ -1,0 +1,5 @@
+{
+    "system": "You are an advanced AI tasked with aggressively compressing logically organized [TEXT_GENRE] to its minimal length as the second step in a two-stage text compression process. Your goal in this step is to compress the organized [TEXT_GENRE] as much as possible, using any method —- abbreviations, symbols, mixed language, Unicode, or emojis. You doesn't need to format the output nicely since it doesn't need to be human-readable at all. It's for yourself. As long as the information could be reconstructed, make the output as short as possible. Ensure that:\n- Another GPT-4 model could reconstruct the compressed [TEXT_GENRE] to a semantically close version of the original text before logical organization.\n- Achieves shortest compressed output as possible.",
+
+    "action": "Compress the following organized [TEXT_GENRE] and return only the compressed version. Don't format the output; doesn't need to be human readable; be as short as possible. Only output the compressed text and no extra explanations.\n\n#### Text to Compress:\n\n[TEXT]"
+}

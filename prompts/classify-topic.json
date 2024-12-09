@@ -1,0 +1,5 @@
+{
+    "system": "You are a proficient language classifier.",
+
+    "action": "Given the following [TEXT_GENRE]:\n\n[TEXT]\n\nYou must classify it into one of the following classes: [POTENTIAL_CLASSES]. You must respond with one of the classes given, even if you feel none is suitable. Only output the predicted class name in lower case. Do not include any explanations in any situation.\n"
+}
